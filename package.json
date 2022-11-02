@@ -1,0 +1,27 @@
+{
+  "name": "blockchain-basics",
+  "version": "1.0.0",
+  "description": "This repository contains the basics of blockchain along with the sample code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsaal2/Blockchain-Basics.git"
+  },
+  "author": "Bishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsaal2/Blockchain-Basics/issues"
+  },
+  "homepage": "https://github.com/bsaal2/Blockchain-Basics#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "hardhat": "^2.12.2"
+  }
+}
